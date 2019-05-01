@@ -3,7 +3,7 @@
 Ces calepins ressource sont une combinaison des ressrouces de l'IGEN et de l'Academie de Paris. Les programmes Pyhton proposés sont richement commentés.
 
 ## 1. PROGRAMME
-Programme à lire [ici](http://cache.media.education.gouv.fr/file/CSP/52/6/1e_Physique-chimie_Specialite_Voie_generale_1022526.pdf).
+Programme à consulter [ici](http://cache.media.education.gouv.fr/file/CSP/52/6/1e_Physique-chimie_Specialite_Voie_generale_1022526.pdf).
 
 ## 2. CAPACITÉS NUMÉRIQUES DU PROGRAMME
 "Le langage de programmation conseillé est le langage Python"
