@@ -1,6 +1,6 @@
 # Ressources Python pour SPC 1ere
 
-Ces calepins ressource sont une combinaison des ressrouces de l'IGEN et de l'Academie de Paris. Les programmes Pyhton proposés sont richement commentés.
+Ces calepins ressource sont une combinaison des ressources de l'IGEN et de l'Academie de Paris. Les programmes Pyhton proposés sont richement commentés.
 
 ## 1. PROGRAMME
 Programme à consulter [ici](http://cache.media.education.gouv.fr/file/CSP/52/6/1e_Physique-chimie_Specialite_Voie_generale_1022526.pdf).
