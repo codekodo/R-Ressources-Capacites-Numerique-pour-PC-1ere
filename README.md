@@ -9,7 +9,7 @@ Programme à consulter [ici](http://cache.media.education.gouv.fr/file/CSP/52/6/
 "Le langage de programmation conseillé est le langage Python"
 
 ### 2.1. Mesure et incertitudes
-Capacité numérique : Représenter l’histogramme associé à une série de mesures à l’aide d’un tableur
+Capacité numérique : Représenter l’histogramme associé à une série de mesures à l’aide d’un tableur.
 
 ### 2.2. Suivi et modélisation de l’évolution d’un système chimique
 Capacité numérique : Déterminer la composition de l’état final d’un système siège d’une transformation chimique totale à l’aide d’un langage de programmation.
